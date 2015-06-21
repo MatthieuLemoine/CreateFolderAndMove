@@ -1,0 +1,1 @@
+COPY "Create folder and move.lnk" "%USERPROFILE%/SendTo"
