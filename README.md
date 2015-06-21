@@ -2,6 +2,14 @@
 Add an entry to the contextual menu under Windows or Linux when you right click on a file.<br>
 It allows you to create a Folder with the name of the selected file and move the file in it.
 
+##Features
+<ul>
+	<li>Automatic creation of folders</li>
+	<li>Automatic move of files</li>
+	<li>Support for spaces in filename & directory (only for Linux version)</li>
+	<li>Multiselection (only for Linux version)</li>
+</ul>
+
 ##Installation Windows
 <ul>
 	<li>Clone the repo</li>
@@ -32,6 +40,6 @@ It allows you to create a Folder with the name of the selected file and move the
 
 ##Improvements
 <ul>
-	<li>Does not support spaces in filenames & directory for Windows version</li>
-	<li>Does not support multiselected files</li>
+	<li>Windows version does not support spaces in filenames & directory/li>
+	<li>Windows version does not support multiselected files </li>
 </ul>
