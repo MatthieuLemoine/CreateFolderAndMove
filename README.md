@@ -5,7 +5,7 @@ It allows you to create a Folder with the name of the selected file and move the
 ##Installation
 <ul>
 	<li>Clone the repo</li>
-	<li>Delete the "Create folder and move" shortcut<li>
+	<li>Delete the "Create folder and move" shortcut</li>
 	<li>Create a shortcut from the install.bat and name it "Create folder and move" or whatever you want : it will the displayed name in the menu</li>
 	<li>Double click install.bat</li>
 </ul>
