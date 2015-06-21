@@ -17,7 +17,7 @@ It allows you to create a Folder with the name of the selected file and move the
 	<li>Click on "Create folder and move"</li>
 </ul>
 
-##Improvments
+##Improvements
 <ul>
 	<li>Does not support spaces in filenames & directory</li>
 </ul>
